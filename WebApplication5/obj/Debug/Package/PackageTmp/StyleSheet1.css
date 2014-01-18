@@ -1,0 +1,57 @@
+﻿body 
+{
+	background-color:#FF1493
+}
+
+.denide
+{
+	width:100%;
+	border:3px solid #ff8000;
+	clear:both;
+	float:left;
+}
+
+#Label3
+{
+	clear:both;
+	float:left;
+}
+
+.blogCssClass
+{
+	clear:both;
+	float:left;
+	font-size:2em;
+}
+
+.blogCssClass1
+{
+	font-family:Courier New Baltic;
+	font-size:0.7em;
+	clear:both;
+	float:left;
+}
+
+.divClass
+{
+	clear:both;
+	float:left;
+}
+
+#Label2
+{
+	float:left;
+	clear:both;
+}
+
+#TextBox1
+{
+	float:left;
+	clear:both;
+}
+
+#Button1
+{
+	float:left;
+	clear:both;	
+}

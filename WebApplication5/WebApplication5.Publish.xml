@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\GRA\Desktop\Корзина\Сайтик" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Профиль1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WebApplication5.dll" publishTime="01/16/2014 20:54:55" />
+    <file relUrl="StyleSheet1.css" publishTime="01/16/2014 20:46:08" />
+    <file relUrl="Default.aspx" publishTime="01/16/2014 20:46:08" />
+    <file relUrl="Web.config" publishTime="01/16/2014 20:50:12" />
+    <file relUrl="bin/WebApplication5.pdb" publishTime="01/16/2014 20:54:55" />
+  </publishProfile>
+</publishData>
